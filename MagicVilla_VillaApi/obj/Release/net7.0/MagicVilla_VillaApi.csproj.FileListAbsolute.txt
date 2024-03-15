@@ -1,0 +1,7 @@
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.csproj.AssemblyReference.cache
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.AssemblyInfoInputs.cache
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.AssemblyInfo.cs
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.csproj.CoreCompileInputs.cache
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MUSA LAPTOP\source\repos\MagicVilla\MagicVilla_VillaApi\obj\Release\net7.0\MagicVilla_VillaApi.MvcApplicationPartsAssemblyInfo.cache
